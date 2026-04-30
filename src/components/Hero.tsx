@@ -9,7 +9,7 @@ export default function Hero() {
           We build websites that Google's AI actually recommends.
         </h1>
         <p className="text-xl sm:text-2xl text-slate-500 font-normal leading-relaxed max-w-2xl mb-10">
-          See how we took a local screen repair business from no website to the top of Google's AI Overview — in under 90 days.
+          See how we took a local screen repair business from no website to the top of Google's AI Overview.
         </p>
         <a
           href="#contact"
