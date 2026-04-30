@@ -22,7 +22,7 @@ export default function WhatYouGet() {
       <div className="max-w-4xl mx-auto w-full">
         <p className="text-blue-600 font-semibold text-sm tracking-widest uppercase mb-4">What You Get</p>
         <h2 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight mb-16">
-          Three deliverables. No fluff.
+          Three Deliverables. No Fluff. Built for Local Search.
         </h2>
 
         <div className="space-y-6 mb-16">

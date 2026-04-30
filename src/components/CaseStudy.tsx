@@ -4,7 +4,7 @@ export default function CaseStudy() {
       <div className="max-w-4xl mx-auto w-full">
         <p className="text-blue-600 font-semibold text-sm tracking-widest uppercase mb-4">Case Study</p>
         <h2 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight mb-4">
-          AEO Case Study: Screen Fix Pro
+          Screen Fix Pro: Local SEO Case Study
         </h2>
         <p className="text-slate-500 text-lg mb-16 max-w-2xl">
           A local screen repair business in the Minneapolis–St. Paul metro. No website. No online presence. We changed that.
@@ -60,6 +60,12 @@ export default function CaseStudy() {
             <p className="text-5xl font-black text-slate-900 mb-2">$130</p>
             <p className="text-slate-600 font-medium">First job booked from organic search. Zero ad spend.</p>
           </div>
+        </div>
+
+        <div className="mt-16 pt-16 border-t border-slate-100">
+          <p className="text-slate-600 text-lg leading-relaxed max-w-3xl">
+            Surfaced Digital works exclusively with local service businesses in the Minneapolis–St. Paul metro and surrounding Twin Cities suburbs. Every site we build is structured from day one for AI Overview visibility — not retrofitted for it later. That's why clients show up in Google's AI answers while competitors who've had websites for years don't.
+          </p>
         </div>
       </div>
     </section>
