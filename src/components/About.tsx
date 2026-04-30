@@ -8,10 +8,10 @@ export default function About() {
             Chris Kimble
           </h2>
           <p className="text-xl text-slate-600 leading-relaxed mb-6">
-            I'm a web developer and AEO specialist based in the Twin Cities. I've built and ranked my own local service businesses using the same methods I bring to client work — so I know what actually moves the needle, and what doesn't.
+            I'm a web developer and AEO specialist based in the Twin Cities. I've built and ranked my own local service businesses using the same methods I bring to client work.
           </p>
           <p className="text-slate-500 text-lg leading-relaxed">
-            Surfaced Digital works with contractors and trades businesses who want to show up where their customers are searching — including Google's AI Overview — without getting lost in a retainer that never delivers.
+            Surfaced Digital works with contractors and trades businesses who want to show up where their customers are searching.
           </p>
         </div>
       </div>

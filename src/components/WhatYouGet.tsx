@@ -13,7 +13,7 @@ export default function WhatYouGet() {
     {
       number: '03',
       title: 'Ongoing support and optimization as AI search evolves',
-      detail: 'AI search is moving fast. You get a partner who stays on top of it — not a vendor who disappears after launch.',
+      detail: 'AI search is moving fast. You get a partner who stays on top of it, not a vendor who disappears after launch.',
     },
   ]
 
@@ -61,7 +61,7 @@ export default function WhatYouGet() {
                 <p className="text-slate-400 text-xs mt-1">6-month minimum</p>
               </div>
               <p className="text-slate-500 leading-relaxed">
-                Each month has a defined scope — new pages, schema updates, GSC reporting, content additions. No vague "we're working on it." You see exactly what was done and what moved.
+                Each month has a defined scope: new pages, schema updates, GSC reporting, content additions. No vague "we're working on it." You see exactly what was done and what moved.
               </p>
             </div>
 

@@ -32,7 +32,7 @@ export default function CaseStudy() {
         {/* AI Overview Screenshot — centerpiece */}
         <div className="mb-20">
           <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4">
-            Google AI Overview — Live Result
+            Google AI Overview: Live Result
           </p>
           <div className="rounded-2xl border-2 border-slate-200 overflow-hidden shadow-lg">
             <img
@@ -41,7 +41,7 @@ export default function CaseStudy() {
               className="w-full block"
             />
             <p className="text-xs text-slate-400 italic px-6 py-4 bg-white border-t border-slate-100">
-              Live Google AI Overview result — Screen Fix Pro named alongside established competitors with zero ad spend.
+              Live Google AI Overview result. Screen Fix Pro named alongside established competitors with zero ad spend.
             </p>
           </div>
         </div>
@@ -58,7 +58,7 @@ export default function CaseStudy() {
           </div>
           <div className="text-center p-6">
             <p className="text-5xl font-black text-slate-900 mb-2">$130</p>
-            <p className="text-slate-600 font-medium">First job booked from organic search — zero ad spend</p>
+            <p className="text-slate-600 font-medium">First job booked from organic search. Zero ad spend.</p>
           </div>
         </div>
       </div>
