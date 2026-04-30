@@ -5,6 +5,7 @@ import WhatYouGet from './components/WhatYouGet'
 import About from './components/About'
 import Contact from './components/Contact'
 import FaqSchema from './components/FaqSchema'
+import BusinessSchema from './components/BusinessSchema'
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
         <Contact />
       </main>
       <FaqSchema />
+      <BusinessSchema />
     </>
   )
 }

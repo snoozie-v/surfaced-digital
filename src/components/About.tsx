@@ -4,14 +4,15 @@ export default function About() {
       <div className="max-w-4xl mx-auto w-full">
         <p className="text-blue-600 font-semibold text-sm tracking-widest uppercase mb-4">About</p>
         <div className="max-w-2xl">
-          <h2 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight mb-8">
+          <h2 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight mb-2">
             Chris Kimble
           </h2>
+          <p className="text-blue-600 font-semibold mb-8">AEO Specialist & Web Developer, Minneapolis MN</p>
           <p className="text-xl text-slate-600 leading-relaxed mb-6">
             I'm a web developer and AEO specialist based in the Twin Cities. I've built and ranked my own local service businesses using the same methods I bring to client work.
           </p>
           <p className="text-slate-500 text-lg leading-relaxed">
-            Surfaced Digital works with contractors and trades businesses who want to show up where their customers are searching.
+            Surfaced Digital works with roofing contractors, HVAC companies, plumbers, electricians, and other trades businesses across Minneapolis, St. Paul, and the surrounding metro who want to show up where their customers are searching.
           </p>
         </div>
       </div>

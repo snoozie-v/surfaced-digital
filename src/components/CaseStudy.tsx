@@ -4,7 +4,7 @@ export default function CaseStudy() {
       <div className="max-w-4xl mx-auto w-full">
         <p className="text-blue-600 font-semibold text-sm tracking-widest uppercase mb-4">Case Study</p>
         <h2 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight mb-4">
-          Screen Fix Pro
+          AEO Case Study: Screen Fix Pro
         </h2>
         <p className="text-slate-500 text-lg mb-16 max-w-2xl">
           A local screen repair business in the Minneapolis–St. Paul metro. No website. No online presence. We changed that.
