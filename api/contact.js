@@ -1,8 +1,8 @@
-const { Pool } = require('pg')
+import pg from 'pg'
 
-const pool = new Pool({ connectionString: process.env.POSTGRES_URL })
+const pool = new pg.Pool({ connectionString: process.env.POSTGRES_URL })
 
-module.exports = async function handler(req, res) {
+export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*')
   res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS')
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
