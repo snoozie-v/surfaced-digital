@@ -48,7 +48,7 @@ export default function FaqSchema() {
         name: 'How much does a local SEO website cost?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Surfaced Digital projects start with a $2,000 website build, followed by $500 per month for ongoing optimization on a six-month minimum engagement. The total minimum engagement is $5,000. Every project includes AEO-first architecture, local city-page structure, schema markup, and monthly reporting so you see exactly what moved.',
+          text: 'Pricing depends on the scope of your market and goals. Every Surfaced Digital project starts with a free assessment so we can understand your business before quoting anything. Projects include a website build followed by ongoing monthly optimization, scoped to what your market actually requires.',
         },
       },
     ],

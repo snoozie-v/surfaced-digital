@@ -42,8 +42,6 @@ export default function BusinessSchema() {
             name: 'Website Build',
             description: 'Full website with AEO-first architecture, local city-page structure, schema markup, and market research.',
           },
-          price: '2000',
-          priceCurrency: 'USD',
         },
         {
           '@type': 'Offer',
@@ -52,8 +50,6 @@ export default function BusinessSchema() {
             name: 'Monthly SEO and AEO Optimization',
             description: 'Ongoing local SEO and AEO optimization with monthly deliverables and GSC reporting.',
           },
-          price: '500',
-          priceCurrency: 'USD',
           eligibleDuration: { '@type': 'QuantitativeValue', value: 1, unitCode: 'MON' },
         },
       ],

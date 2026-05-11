@@ -39,7 +39,7 @@ export default function WhatYouGet() {
 
         <div className="border border-slate-200 rounded-2xl overflow-hidden">
           <div className="bg-slate-900 px-8 py-6">
-            <p className="text-blue-400 font-semibold text-sm tracking-widest uppercase mb-1">Pricing</p>
+            <p className="text-blue-400 font-semibold text-sm tracking-widests uppercase mb-1">How It Works</p>
             <p className="text-white text-2xl font-black">A complete engagement, not a one-time build.</p>
           </div>
 
@@ -47,7 +47,6 @@ export default function WhatYouGet() {
             <div className="bg-white px-8 py-8 flex flex-col sm:flex-row sm:items-start gap-4">
               <div className="flex-shrink-0 sm:w-48">
                 <p className="text-slate-900 font-black text-xl">Website Build</p>
-                <p className="text-blue-600 font-black text-2xl mt-1">$2,000</p>
               </div>
               <p className="text-slate-500 leading-relaxed">
                 Full site with AEO-first architecture, local city-page structure, schema markup, and market research to position you correctly from day one. You'll know exactly what you're getting before we start.
@@ -57,8 +56,6 @@ export default function WhatYouGet() {
             <div className="bg-white px-8 py-8 flex flex-col sm:flex-row sm:items-start gap-4">
               <div className="flex-shrink-0 sm:w-48">
                 <p className="text-slate-900 font-black text-xl">Monthly Optimization</p>
-                <p className="text-blue-600 font-black text-2xl mt-1">$500<span className="text-base font-semibold text-slate-400">/mo</span></p>
-                <p className="text-slate-400 text-xs mt-1">6-month minimum</p>
               </div>
               <p className="text-slate-500 leading-relaxed">
                 Each month has a defined scope: new pages, schema updates, GSC reporting, content additions. No vague "we're working on it." You see exactly what was done and what moved.
@@ -67,8 +64,7 @@ export default function WhatYouGet() {
 
             <div className="bg-slate-50 px-8 py-6 flex flex-col sm:flex-row sm:items-center gap-4">
               <div className="flex-shrink-0 sm:w-48">
-                <p className="text-slate-500 text-sm font-semibold uppercase tracking-wide">Minimum engagement</p>
-                <p className="text-slate-900 font-black text-2xl mt-1">$5,000</p>
+                <p className="text-slate-500 text-sm font-semibold uppercase tracking-wide">The commitment</p>
               </div>
               <p className="text-slate-500 text-sm leading-relaxed">
                 No retainers that run forever with nothing to show. After six months you own a site that ranks, a GSC history that proves it, and the choice to continue or not.
