@@ -8,10 +8,10 @@ export default function About() {
             Chris Kimble — AEO Specialist, Twin Cities
           </h2>
           <p className="text-xl text-slate-600 leading-relaxed mb-6">
-            I'm a web developer and AEO specialist based in the Twin Cities. I've built and ranked my own local service businesses using the same methods I bring to client work.
+            I'm a web developer and AEO specialist based in the Twin Cities. Screen Fix Pro — a local service business I built from scratch — is the proof of concept: it ranks in Google's AI Overview and generates inbound leads without paid ads, using the exact approach behind this work.
           </p>
           <p className="text-slate-500 text-lg leading-relaxed mb-6">
-            Surfaced Digital works with roofing contractors, HVAC companies, plumbers, electricians, and other trades businesses across Minneapolis, St. Paul, and the surrounding metro who want to show up where their customers are searching.
+            Surfaced Digital is built for roofing contractors, HVAC companies, plumbers, electricians, and other trades businesses across Minneapolis, St. Paul, and the surrounding metro who want to show up where their customers are searching.
           </p>
           <p className="text-slate-500 text-lg leading-relaxed">
             Based in the Twin Cities, we understand the local market — the suburbs, the seasonal demand patterns, and the contractors who serve them. Whether you're in Lakeville, Burnsville, Eagan, Eden Prairie, or anywhere in the metro, the same approach applies.
