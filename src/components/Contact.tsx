@@ -35,7 +35,7 @@ export default function Contact() {
         <div className="max-w-xl">
           <p className="text-blue-400 font-semibold text-sm tracking-widest uppercase mb-4">Contact</p>
           <h2 className="text-4xl sm:text-5xl font-black text-white tracking-tight mb-4">
-            Let's Talk About Your Twin Cities Business
+            Let's Talk About Your Business
           </h2>
           <p className="text-slate-400 text-lg mb-12">
             Tell me where you're at and what you're after. I'll take a look and come back with honest feedback on what's possible.
