@@ -14,7 +14,7 @@ export default function About() {
             Surfaced Digital is built for roofing contractors, HVAC companies, plumbers, electricians, and other trades businesses across Minneapolis, St. Paul, and the surrounding metro who want to show up where their customers are searching.
           </p>
           <p className="text-slate-500 text-lg leading-relaxed">
-            Based in the Twin Cities, we understand the local market — the suburbs, the seasonal demand patterns, and the contractors who serve them. Whether you're in Lakeville, Burnsville, Eagan, Eden Prairie, or anywhere in the metro, the same approach applies.
+            Based in the Twin Cities and working with businesses across the metro. The methodology — AEO-first architecture, city-page structure, schema markup — is what drives results, wherever you're located.
           </p>
         </div>
       </div>
