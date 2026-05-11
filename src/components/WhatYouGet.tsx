@@ -67,7 +67,7 @@ export default function WhatYouGet() {
                 <p className="text-slate-500 text-sm font-semibold uppercase tracking-wide">The commitment</p>
               </div>
               <p className="text-slate-500 text-sm leading-relaxed">
-                No retainers that run forever with nothing to show. After six months you own a site that ranks, a GSC history that proves it, and the choice to continue or not.
+                No retainers that run forever with nothing to show. After, you own a site that ranks and the choice to continue or not.
               </p>
             </div>
           </div>
