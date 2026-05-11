@@ -10,11 +10,8 @@ export default function About() {
           <p className="text-xl text-slate-600 leading-relaxed mb-6">
             I'm a web developer and AEO specialist based in the Twin Cities. Screen Fix Pro — a local service business I built from scratch — is the proof of concept: it ranks in Google's AI Overview and generates inbound leads without paid ads, using the exact approach behind this work.
           </p>
-          <p className="text-slate-500 text-lg leading-relaxed mb-6">
-            Surfaced Digital is built for roofing contractors, HVAC companies, plumbers, electricians, and other trades businesses across Minneapolis, St. Paul, and the surrounding metro who want to show up where their customers are searching.
-          </p>
           <p className="text-slate-500 text-lg leading-relaxed">
-            Based in the Twin Cities and working with businesses across the metro. The methodology — AEO-first architecture, city-page structure, schema markup — is what drives results, wherever you're located.
+            Surfaced Digital is built for roofing contractors, HVAC companies, plumbers, electricians, and other trades businesses across Minneapolis, St. Paul, and the surrounding metro who want to show up where their customers are searching.
           </p>
         </div>
       </div>
