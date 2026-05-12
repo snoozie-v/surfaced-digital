@@ -68,8 +68,8 @@ export default function CaseStudy() {
             <p className="text-slate-600 font-medium">Named in Google AI Overview alongside established competitors</p>
           </div>
           <div className="text-center p-6">
-            <p className="text-5xl font-black text-slate-900 mb-2">$130</p>
-            <p className="text-slate-600 font-medium">First job booked from organic search. Zero ad spend.</p>
+            <p className="text-5xl font-black text-slate-900 mb-2">$0</p>
+            <p className="text-slate-600 font-medium">Ad spend. Every lead generated through organic search, not paid advertising.</p>
           </div>
         </div>
 
