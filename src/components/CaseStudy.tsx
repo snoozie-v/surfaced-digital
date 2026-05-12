@@ -29,21 +29,32 @@ export default function CaseStudy() {
           </div>
         </div>
 
-        {/* AI Overview Screenshot — centerpiece */}
+        {/* AI Overview Screenshots — multi-city grid */}
         <div className="mb-20">
-          <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4">
-            Google AI Overview: Live Result
+          <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-6">
+            Google AI Overview: Ranking Across the Metro
           </p>
-          <div className="rounded-2xl border-2 border-slate-200 overflow-hidden shadow-lg">
-            <img
-              src="/ai-overview.png"
-              alt="Google AI Overview showing Screen Fix Pro named alongside competitors for screen door rescreening in Lakeville"
-              className="w-full block"
-            />
-            <p className="text-xs text-slate-400 italic px-6 py-4 bg-white border-t border-slate-100">
-              Live Google AI Overview result. Screen Fix Pro named alongside established competitors with zero ad spend.
-            </p>
+          <div className="grid sm:grid-cols-3 gap-4">
+            {[
+              { src: '/ai-overview-apple-valley.png', city: 'Apple Valley' },
+              { src: '/ai-overview-bloomington.png', city: 'Bloomington' },
+              { src: '/ai-overview-eagan.png', city: 'Eagan' },
+            ].map(({ src, city }) => (
+              <div key={city} className="rounded-xl border border-slate-200 overflow-hidden shadow-sm">
+                <div className="bg-slate-50 px-4 py-2 border-b border-slate-200">
+                  <p className="text-xs font-bold text-slate-500 uppercase tracking-widest">{city}</p>
+                </div>
+                <img
+                  src={src}
+                  alt={`Google AI Overview showing Screen Fix Pro named for window screen repair in ${city}, MN`}
+                  className="w-full block"
+                />
+              </div>
+            ))}
           </div>
+          <p className="text-xs text-slate-400 italic mt-4">
+            Screen Fix Pro named in Google AI Overview across multiple Twin Cities suburbs. Zero ad spend.
+          </p>
         </div>
 
         {/* Results */}
