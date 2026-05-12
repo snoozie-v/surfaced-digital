@@ -2,18 +2,18 @@ export default function WhatYouGet() {
   const deliverables = [
     {
       number: '01',
-      title: 'A professionally built website optimized for AI search from day one',
-      detail: 'Fast, mobile-first, and structured the way Google\'s AI wants to read it. Not a template. Built for your market.',
+      title: 'A site built around what you want to be known for',
+      detail: 'Before anything gets built, we figure out how your market searches and where you can win. The site gets built around that — not a template dropped on your business.',
     },
     {
       number: '02',
-      title: 'Local city-page architecture designed to surface in Google\'s AI Overview',
-      detail: 'Each page targets a specific service area. More pages means more chances to appear when someone nearby searches.',
+      title: 'You show up when people nearby are ready to hire',
+      detail: 'Each page targets a specific service area. The more ground you cover, the more often Google\'s AI recommends you when someone nearby is searching.',
     },
     {
       number: '03',
-      title: 'Ongoing support and optimization as AI search evolves',
-      detail: 'AI search is moving fast. You get a partner who stays on top of it, not a vendor who disappears after launch.',
+      title: 'A partner who keeps pushing while you focus on the work',
+      detail: 'AI search is moving fast. You get someone watching it for you, making adjustments, and showing you what\'s working — not a vendor who disappears after launch.',
     },
   ]
 
@@ -22,7 +22,7 @@ export default function WhatYouGet() {
       <div className="max-w-4xl mx-auto w-full">
         <p className="text-blue-600 font-semibold text-sm tracking-widest uppercase mb-4">What You Get</p>
         <h2 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight mb-16">
-          Three Deliverables. No Fluff. Built for Local Search.
+          What working together actually looks like.
         </h2>
 
         <div className="space-y-6 mb-16">
@@ -46,19 +46,19 @@ export default function WhatYouGet() {
           <div className="divide-y divide-slate-100">
             <div className="bg-white px-8 py-8 flex flex-col sm:flex-row sm:items-start gap-4">
               <div className="flex-shrink-0 sm:w-48">
-                <p className="text-slate-900 font-black text-xl">Website Build</p>
+                <p className="text-slate-900 font-black text-xl">Discovery + Build</p>
               </div>
               <p className="text-slate-500 leading-relaxed">
-                Full site with AEO-first architecture, local city-page structure, schema markup, and market research to position you correctly from day one. You'll know exactly what you're getting before we start.
+                You tell us what you want to be known for and where you want to work. We handle the research and strategy. By the time we launch, every page has a clear purpose — and you'll know exactly what it is before we build it.
               </p>
             </div>
 
             <div className="bg-white px-8 py-8 flex flex-col sm:flex-row sm:items-start gap-4">
               <div className="flex-shrink-0 sm:w-48">
-                <p className="text-slate-900 font-black text-xl">Monthly Optimization</p>
+                <p className="text-slate-900 font-black text-xl">Monthly Progress</p>
               </div>
               <p className="text-slate-500 leading-relaxed">
-                Each month has a defined scope: new pages, schema updates, GSC reporting, content additions. No vague "we're working on it." You see exactly what was done and what moved.
+                Each month you get a clear picture of what was done, what moved, and what's next. No agency jargon. No wondering if it's working.
               </p>
             </div>
 
