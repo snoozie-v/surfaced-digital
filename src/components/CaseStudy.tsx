@@ -14,18 +14,18 @@ export default function CaseStudy() {
         <div className="grid sm:grid-cols-3 gap-6 mb-20">
           <div className="bg-slate-50 rounded-xl p-6 border border-slate-200">
             <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-2">Before</p>
-            <p className="text-slate-900 font-semibold text-lg">October 2024</p>
+            <p className="text-slate-900 font-semibold text-lg">August 2025</p>
             <p className="text-slate-500 mt-1">No website. Zero online presence. Not indexed anywhere.</p>
           </div>
           <div className="bg-slate-50 rounded-xl p-6 border border-slate-200">
             <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-2">What We Built</p>
             <p className="text-slate-900 font-semibold text-lg">AEO-First Architecture</p>
-            <p className="text-slate-500 mt-1">Local SEO structure with 8 city pages optimized for AI Overview from day one.</p>
+            <p className="text-slate-500 mt-1">City-page structure built for local search, expanded to multi-market targeting, then layered with AEO optimization.</p>
           </div>
           <div className="bg-blue-600 rounded-xl p-6">
             <p className="text-xs font-bold text-blue-200 uppercase tracking-widest mb-2">Timeline</p>
-            <p className="text-white font-semibold text-lg">Weeks, Not Months</p>
-            <p className="text-blue-100 mt-1">Site built, indexed, and ranking across the Twin Cities metro.</p>
+            <p className="text-white font-semibold text-lg">Built to Compound</p>
+            <p className="text-blue-100 mt-1">Organic visibility grows month over month. A long-term asset that gets stronger over time.</p>
           </div>
         </div>
 
