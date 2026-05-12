@@ -3,7 +3,7 @@ export default function WhatYouGet() {
     {
       number: '01',
       title: 'A site built around what you want to be known for',
-      detail: 'Before anything gets built, we figure out how your market searches and where you can win. The site gets built around that — not a template dropped on your business.',
+      detail: 'Before anything gets built, we assess the searches in your market and where it matches with what you want to be known for. The site gets built around that, not a template dropped on your business.',
     },
     {
       number: '02',
@@ -13,7 +13,7 @@ export default function WhatYouGet() {
     {
       number: '03',
       title: 'A partner who keeps pushing while you focus on the work',
-      detail: 'AI search is moving fast. You get someone watching it for you, making adjustments, and showing you what\'s working — not a vendor who disappears after launch.',
+      detail: 'AI search is moving fast. You get someone watching it for you, making adjustments, and showing you what\'s working. Not a vendor who disappears after launch.',
     },
   ]
 
@@ -21,7 +21,7 @@ export default function WhatYouGet() {
     <section className="bg-slate-50 px-6 py-24">
       <div className="max-w-4xl mx-auto w-full">
         <p className="text-blue-600 font-semibold text-sm tracking-widest uppercase mb-4">What You Get</p>
-        <h2 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight mb-16">
+        <h2 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight mb-16 text-balance">
           What working together actually looks like.
         </h2>
 
@@ -49,7 +49,7 @@ export default function WhatYouGet() {
                 <p className="text-slate-900 font-black text-xl">Discovery + Build</p>
               </div>
               <p className="text-slate-500 leading-relaxed">
-                You tell us what you want to be known for and where you want to work. We handle the research and strategy. By the time we launch, every page has a clear purpose — and you'll know exactly what it is before we build it.
+                You tell us what you want to be known for and where you want to work. We handle the research and strategy. By the time we launch, every page has a clear purpose and you'll know exactly what it is before we build it.
               </p>
             </div>
 

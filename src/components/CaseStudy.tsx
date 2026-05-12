@@ -75,7 +75,7 @@ export default function CaseStudy() {
 
         <div className="mt-16 pt-16 border-t border-slate-100">
           <p className="text-slate-600 text-lg leading-relaxed max-w-3xl">
-            Every site we build is structured from day one for AI Overview visibility — not retrofitted for it later. That's why businesses show up in Google's AI answers while competitors who've had websites for years don't.
+            Every site we build is structured from day one for AI Overview visibility, not retrofitted for it later. That's why businesses show up in Google's AI answers while competitors who've had websites for years don't.
           </p>
         </div>
       </div>

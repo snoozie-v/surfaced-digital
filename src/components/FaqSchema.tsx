@@ -24,7 +24,7 @@ export default function FaqSchema() {
         name: 'What kinds of businesses do you work with?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Surfaced Digital works with contractors and trades businesses — roofing companies, HVAC contractors, plumbers, electricians, landscapers, and other local service providers. These businesses typically rely on word of mouth and want to build a reliable online presence that generates inbound leads without ongoing ad spend.',
+          text: 'Surfaced Digital works with contractors and trades businesses: roofing companies, HVAC contractors, plumbers, electricians, landscapers, and other local service providers. These businesses typically rely on word of mouth and want to build a reliable online presence that generates inbound leads without ongoing ad spend.',
         },
       },
       {
